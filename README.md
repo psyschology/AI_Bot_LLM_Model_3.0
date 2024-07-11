@@ -1,6 +1,4 @@
-Certainly! Here's a README file for a project named "AI_Bot_LLM_Model_3.0":
 
----
 
 # AI_Bot_LLM_Model_3.0
 
